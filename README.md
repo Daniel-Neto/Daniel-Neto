@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-Neto
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning about data science
-- 💞️ I’m looking to collaborate on data science communities
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning about Java Development
+- 💞️ I’m looking to collaborate on Java Development communities
 - 📫 How to reach me:  e-mail - dasn@ecomp.poli.br
 
 <!---
